@@ -1,7 +1,7 @@
 # Kod Örnekleri
 
 
-##CodeAnalyze
+## CodeAnalyze
 Github PullRequest'leri WebHook ile yakalayıp .cs dosyalarını roslyn ile çözümleyip otomatik Review ekleme örneği.
 
 Dikakt edilecekler.
